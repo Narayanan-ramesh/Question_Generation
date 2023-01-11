@@ -9,10 +9,10 @@ questions resemble one another.
 
 WER Scores
 
-![alt text]([http://url/to/img.png](https://github.com/Narayanan-ramesh/Question_Generation/blob/main/Images/WER.PNG))
+![alt text](https://github.com/Narayanan-ramesh/Question_Generation/blob/main/Images/WER.PNG?raw=true)
 
 
 Comparison of 4 models
 
 
-![alt text]([http://url/to/img.png](https://github.com/Narayanan-ramesh/Question_Generation/blob/main/Images/Scores.PNG))
+![alt text](https://github.com/Narayanan-ramesh/Question_Generation/blob/main/Images/Scores.PNG?raw=true)
